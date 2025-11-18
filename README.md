@@ -1,3 +1,2 @@
-# InstagramReelsRemover
-
-bye shortform lol very simple script lol
+# Instagram Enhancements
+Includes Reels Remover and Ripple Effect for side navbar button thingies.
